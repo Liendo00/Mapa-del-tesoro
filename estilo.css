@@ -1,0 +1,12 @@
+body{
+    background: rgba(112, 11, 61, 0.801);
+    color: #fff;
+    display: flex;
+    height: 100vh;
+    padding: 0;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
